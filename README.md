@@ -6,11 +6,9 @@ Resources for building sonifications and visualisations of API data using Pure D
 Included sub-modules
 --------------------
 
-- rjlib
-Very useful set of Pd abstractions made by the RjDj crew.
+- rjlib - Very useful set of Pd abstractions made by the RjDj crew.
 
-- pd-dmx
-Set of abstractions for controlling DMX lamps via Pure data and Arduino.
+- pd-dmx - Set of abstractions for controlling DMX lamps via Pure data and Arduino.
 
 Installation
 ------------
