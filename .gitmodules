@@ -1,3 +1,6 @@
 [submodule "rjlib"]
 	path = rjlib
 	url = git://github.com/rjdj/rjlib.git
+[submodule "pd-dmx"]
+	path = pd-dmx
+	url = git@github.com:reactify/pd-dmx.git
