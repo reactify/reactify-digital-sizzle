@@ -9,7 +9,7 @@ import simplejson
 port = 8080
 
 # the url for the data api, return as json, NOT jsonp
-url = "http://developer.echonest.com/api/v4/song/search?api_var2=N6E4NIOVYMTHNDM8J&format=json&artist=All%20Good%20Funk%20Alliance&title=Super%20Jam&bucket=audio_summary"
+url = "http://developer.echonest.com/api/v4/song/search?api_key=N6E4NIOVYMTHNDM8J&format=json&artist=All%20Good%20Funk%20Alliance&title=Super%20Jam&bucket=audio_summary"
 
 
 # go fetch all the data as json, DO NOT TOUCH THIS
