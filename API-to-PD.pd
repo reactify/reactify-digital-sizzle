@@ -1,4 +1,4 @@
-#N canvas 0 22 450 300 10;
+#N canvas 467 91 450 300 10;
 #X obj 83 56 dumpOSC 8080;
 #X text 162 56 // JSON data comes in via OSC;
 #X obj 83 87 OSCroute /var1 /var2 /var3;
